@@ -18,3 +18,4 @@ def calculator(a, b, operation):
 print(f"10 / 0 = {calculator(10, 0, 'divide')}")
 print(f"10 / 2 = {calculator(10, 2, 'divide')}")
 print(f"10 + 5 = {calculator(10, 5, 'add')}")
+
