@@ -1,8 +1,8 @@
 # Problem 42: Convert list to string
 # Find and fix the error
 
-words = ["Hello", "World", "Python"]
-sentence = ""
+words=["Hello", "World", "Python"]
+sentence=""
 for word in words:
-    sentence += word + " "
+    sentence+=word+" "
 print(f"Sentence: {sentence}")
