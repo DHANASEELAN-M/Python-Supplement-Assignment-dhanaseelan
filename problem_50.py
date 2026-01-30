@@ -8,4 +8,5 @@ for char in text:
         uppercase += chr(ord(char) - 32)
     else:
         uppercase += char
-print(f"Uppercase: {uppercase}")
+print(f"Uppercase: {uppercase})
+
